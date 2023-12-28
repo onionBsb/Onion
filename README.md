@@ -35,7 +35,5 @@ You just need to execute the code in my file one by one in jupyter notebook，I 
 # Reference material
 CSDN，《Principles and applications of machine learning》
 
-# file
-
 
 
