@@ -35,7 +35,14 @@ You just need to execute the code in my file one by one in jupyter notebook，I 
 `#Got an AUC of 0.88, a significant improvement, there are other aspects can also refer to my code`<br>
 
 # Reference material
-CSDN，《Principles and applications of machine learning》
+Principles and applications of machine learning》
 
+https://zhuanlan.zhihu.com/p/427688492
+
+https://blog.csdn.net/weixin_43827767/article/details/120586336
+
+https://zhuanlan.zhihu.com/p/76206257
+
+https://zhuanlan.zhihu.com/p/427688492
 
 
