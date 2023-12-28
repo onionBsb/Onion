@@ -32,6 +32,10 @@ You just need to execute the code in my file one by one in jupyter notebook，I 
 `estimator_tree.fit(X_train,y_train)`<br>
 `#Got an AUC of 0.88, a significant improvement, there are other aspects can also refer to my code`<br>
 
-# Credits
+# Reference material
+CSDN，《Principles and applications of machine learning》
+
+# file
+
 
 
