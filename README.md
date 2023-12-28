@@ -21,10 +21,12 @@ You just need to execute the code in my file one by one in jupyter notebook，I 
 `#Decision tree model`<br>
 `estimator_tree = DecisionTreeClassifier()`<br>
 `estimator_tree.fit(X_train,y_train)`<br>
+
 `#Calculate the value of the AUC`<br>
 `y_pred = estimator_tree.predict(X_test)`<br>
 `auc_tree = roc_auc_score(y_test,y_pred)`<br>
 `#The running result is that the value of AUC is equal to 0.56, and no processing analysis is done from the initial model, and then the methods to improve AUC are studied from different aspects`<br>
+
 `#The following is an example of tuning the parameters of the decision tree model`<br>
 `#Searching the grid to find the best max_depth and min_samples_split results are 10 and 14, respectively`<br>
 `#retrain`<br>
